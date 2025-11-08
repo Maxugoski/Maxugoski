@@ -88,11 +88,7 @@ You can also find me on other social media:
 ### My toolbox
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/php-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
-  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Dhall" src="https://custom-icon-badges.demolab.com/badge/-Dhall-dfafff?style=flat-square&logo=dhall&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />

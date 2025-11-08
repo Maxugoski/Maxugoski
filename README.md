@@ -11,13 +11,13 @@
 I'm a web developer, designer, and digital ethicist passionate about building technology that serves humanity. With over six years of experience in web development and design, I have created e-learning platforms, advocacy websites, and digital tools that blend creativity with conscience. All opinions are my own.
 
 
-I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
+<!--I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
 My passion is making Functional Programming more accessible to people with diverse backgrounds.
 Check out my free [Haskell Course for complete beginners][haskell-course]!
 
 [clc]: https://github.com/haskell/core-libraries-committee
-[haskell-course]: https://github.com/haskell-beginners-2022/course-plan
+[haskell-course]: https://github.com/haskell-beginners-2022/course-plan -->
 
 ### My work
 
@@ -28,7 +28,7 @@ I do all kinds of work to help people get started with Tech as easier as possibl
 Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, the author challenges developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
 
-OSS has been a huge part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
+Here is a highlight of a few notable projects:
 
 <table>
   <thead align="center">
@@ -77,13 +77,13 @@ OSS has been a huge part of my educator and mentor journey for many years and I'
   </tbody>
 </table>
 
-If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/chshersh" /></a>
+If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/Maxugoski) <a href="https://github.com/sponsors/Maxugoski" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/Maxugoski" /></a>
 
 You can also find me on other social media:
 
-* [🔊 𝕏](https://x.com/ChShersh)
-* [⛅️ BlueSky: @chshersh.com](https://bsky.app/profile/chshersh.com)
-* [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
+* [🔊 𝕏](https://x.com/whoisugoski)
+* [⛅️ TikTok: @Ugoski25](https://tiktok.com/@ugoski25)
+
 
 ### My toolbox
 

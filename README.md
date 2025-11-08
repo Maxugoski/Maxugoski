@@ -82,13 +82,13 @@ If you like my work and want to support me, you can [sponsor me on GitHub 💖](
 You can also find me on other social media:
 
 * [🔊 𝕏](https://x.com/whoisugoski)
-* [⛅️ TikTok: @Ugoski25](https://tiktok.com/@ugoski25)
+* [⛅️ TikTok](https://tiktok.com/@ugoski25)
 
 
 ### My toolbox
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/php-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />

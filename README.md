@@ -45,7 +45,8 @@ Here is a highlight of a few notable projects:
   <tbody>
     <tr>
       <td><a href="https://lms-frontend-omega-rust.vercel.app/"><b>👩‍🏫 Allmax Learn</b></a> — an LMS platform for educators to upload courses and student's enroll to learn</td>
-      <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /></td>
+      <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /> <img alt="React" src="https://img.shields.io/badge/ReactJs-blue?style=flat-square&logo=react&logoColor=%23ffff" />
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
@@ -61,21 +62,14 @@ Here is a highlight of a few notable projects:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/chshersh/zbg"><b>✨ zbg</b></a> — Zero Bullshit Git</td>
+      <td><a href="https://github.com/Maxugoski/AllmaxExp"><b>✨ Allmax Exp Theme</b></a> — A professional media company WordPress theme. Clean, modern, and optimized for media organizations.</td>
       <td> <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23FFFFFF" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/chshersh/tool-sync"><b>🧰 tool-sync</b></a> — a CLI tool to download other tools from GitHub Releases</td>
-      <td><img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    
   </tbody>
 </table>  
 
@@ -94,6 +88,7 @@ You can also find me on other social media:
 <p>
   <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23FFFFFF" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" />
+   <img alt="React" src="https://img.shields.io/badge/ReactJs-blue?style=flat-square&logo=react&logoColor=%23ffff" />
    <img alt="wordpress" src="https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=%23FFFFFF" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=%23FFFFFF" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -103,3 +98,5 @@ You can also find me on other social media:
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+
+

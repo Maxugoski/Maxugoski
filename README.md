@@ -23,7 +23,7 @@ Check out my free [Haskell Course for complete beginners][haskell-course]!
 
 I do all kinds of work to help people get started with Tech as easier as possible:
 
-* [🎥 YouTube](https://youtube.com/@maxugoski?si=Wji7Ch9uRIoiRfvH) — FP, OCaml, Haskell, tech
+* [🎥 YouTube](https://youtube.com/@maxugoski?si=Wji7Ch9uRIoiRfvH) — Tech, Advocacy and Philosophy 
 * [📚 Book](https://www.amazon.com/dp/B0G1C6HS5Z) —  When code decides how people live, every keystroke becomes an ethical act.
 Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, the author challenges developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
@@ -91,7 +91,7 @@ You can also find me on other social media:
 ### My toolbox
 
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-blue?logo=javascript" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?logo=javascript" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />

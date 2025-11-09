@@ -28,6 +28,7 @@ I do all kinds of work to help people get started with Tech as easier as possibl
 Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, the author challenges developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
 
+<!--
 Here is a highlight of a few notable projects:
 
 <table>
@@ -75,7 +76,9 @@ Here is a highlight of a few notable projects:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table>  
+
+-->
 
 If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/Maxugoski) <a href="https://github.com/sponsors/Maxugoski" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/Maxugoski" /></a>
 

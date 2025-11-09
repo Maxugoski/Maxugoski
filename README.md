@@ -28,7 +28,7 @@ I do all kinds of work to help people get started with Tech as easier as possibl
 Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, the author challenges developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
 
-<!--
+
 Here is a highlight of a few notable projects:
 
 <table>
@@ -44,16 +44,17 @@ Here is a highlight of a few notable projects:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/haskell-beginners-2022/course-plan"><b>👩‍🏫 Haskell Beginners</b></a> — a Haskell course for complete beginners (no prior knowledge of FP needed!)</td>
-      <td><img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" /></td>
+      <td><a href="https://lms-frontend-omega-rust.vercel.app/"><b>👩‍🏫 Allmax Learn</b></a> — an LMS platform for educators to upload courses and student's enroll to learn</td>
+      <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/chshersh/github-tui"><b>🌒 github-tui</b></a> — GitHub in your terminal</td>
-      <td><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" /></td>
+      <td><a href="https://github.com/Maxugoski/wordwise-ai"><b>🌒 Wordwise AI</b></a> — A chat-like prompt box WordPress plugin for ad-hoc content generation.</td>
+      <td> <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23FFFFFF" /> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" />
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
@@ -61,7 +62,7 @@ Here is a highlight of a few notable projects:
     </tr>
     <tr>
       <td><a href="https://github.com/chshersh/zbg"><b>✨ zbg</b></a> — Zero Bullshit Git</td>
-      <td><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" /></td>
+      <td> <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23FFFFFF" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
@@ -78,7 +79,7 @@ Here is a highlight of a few notable projects:
   </tbody>
 </table>  
 
--->
+
 
 If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/Maxugoski) <a href="https://github.com/sponsors/Maxugoski" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/Maxugoski" /></a>
 

@@ -25,7 +25,7 @@ I do all kinds of work to help people get started with Tech as easier as possibl
 
 * [🎥 YouTube](https://youtube.com/@maxugoski?si=Wji7Ch9uRIoiRfvH) — Tech, Advocacy and Philosophy 
 * [📚 Book](https://www.amazon.com/dp/B0G1C6HS5Z) — Ethics in Code- When code decides how people live, every keystroke becomes an ethical act.
-Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, the author challenges developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
+Ethics in Code reveals how software now shapes human behavior, privacy, and justice — often without conscience. Blending philosophy, real-world tech stories, and moral clarity, I challenge developers and digital creators to see beyond functionality and ask the deeper question: Who does this code empower, and who does it exclude?
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
 
 

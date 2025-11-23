@@ -53,7 +53,7 @@ Here is a highlight of a few notable projects:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://culturedballers.vercel.app/"><b> Cultured Ballers</b></a> — Football Club dedicated to developing well-rounded athletes who excel in soccer while embodying the values of discipline, respect, and cultural awareness. </td>
+      <td><a href="https://culturedballers.vercel.app/"><b> ⚽ Cultured Ballers</b></a> — Football Club dedicated to developing well-rounded athletes who excel in soccer while embodying the values of discipline, respect, and cultural awareness. </td>
       <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /> <img alt="React" src="https://img.shields.io/badge/ReactJs-blue?style=flat-square&logo=react&logoColor=%23ffff" />
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>

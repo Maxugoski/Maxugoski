@@ -56,8 +56,7 @@ Here is a highlight of a few notable projects:
       <td><a href="https://culturedballers.vercel.app/"><b> ⚽ Cultured Ballers</b></a> — Football Club dedicated to developing well-rounded athletes who excel in soccer while embodying the values of discipline, respect, and cultural awareness. </td>
       <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /> <img alt="React" src="https://img.shields.io/badge/ReactJs-blue?style=flat-square&logo=react&logoColor=%23ffff" />
       </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maxugoski/culturedballers
-"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maxugoski/culturedballers"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
@@ -74,8 +73,7 @@ Here is a highlight of a few notable projects:
     <tr>
       <td><a href="https://github.com/Maxugoski/AllmaxExp"><b>✨ Allmax Exp Theme</b></a> — A professional media company WordPress theme. Clean, modern, and optimized for media organizations.</td>
       <td> <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23FFFFFF" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maxugoski/AllmaxExp
-"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maxugoski/AllmaxExp"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>

@@ -44,7 +44,7 @@ Here is a highlight of a few notable projects:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learn.altramax.org"><b>👩‍🏫 Allmax Learn</b></a> — an LMS platform for educators to upload courses and student's enroll to learn</td>
+      <td><a href="https://learn.altramax.org"><b>👩‍🏫 Altramax Learn</b></a> — an LMS platform for educators to upload courses and student's enroll to learn</td>
       <td><img alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript" /> <img alt="React" src="https://img.shields.io/badge/ReactJs-blue?style=flat-square&logo=react&logoColor=%23ffff" />
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Maxugoski/LMS"/></td>

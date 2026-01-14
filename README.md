@@ -29,7 +29,7 @@ Ethics in Code reveals how software now shapes human behavior, privacy, and just
 From The Software Engineer’s Oath to The Moral Stack, this book redefines what it means to build technology responsibly — with empathy, inclusivity, and humanity at its core. 
 
 
-Here is a highlight of a few notable projects:
+Here is a highlight of a few notable projects of mine:
 
 <table>
   <thead align="center">

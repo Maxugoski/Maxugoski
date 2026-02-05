@@ -110,48 +110,17 @@ You can also find me on other social media:
 
 
 
-Hey there 👋,
+
 
 # My Projects as an AI Video & Image Prompt Engineer
 
-I’m an AI Prompt Engineer specializing in creating high-quality AI images, video sequences, animations, and brand-consistent digital assets. Using tools like Nano Banana, Grok Imagine, Midjourney, DALL·E, Runway Gen-2, Pika Labs, and Stable Diffusion, I craft cinematic visuals, advertising scenes, product renders, storyboards, and creative content for clients worldwide.
+I’m also an AI Prompt Engineer specializing in creating high-quality AI images, video sequences, animations, and brand-consistent digital assets. Using tools like Nano Banana, Grok Imagine, Midjourney, DALL·E, Runway Gen-2, Pika Labs, and Stable Diffusion, I craft cinematic visuals, advertising scenes, product renders, storyboards, and creative content for clients worldwide.
 
-AI Services
-
-AI images & concept art
-
-Cinematic video generation
-
-Storytelling sequences & animation
-
-Product mockups & branding visuals
-
-Image-to-video, video-to-video transformations
-
-Character consistency prompts
-
-Style-based AI brand kits
-
-Platforms I Use
-
-Midjourney, DALL·E 3/4, Stable Diffusion, Leonardo, Runway Gen-2, Pika Labs, Luma Dream Machine, HeyGen.
-
-Why Work With Me
-
-Expert knowledge of advanced prompting
-
-Ability to match style, brand tone & visual consistency
-
-High-end cinematic and realistic results
-
-Fast delivery & clear communication
-
-If you need creative AI visuals with precision and storytelling depth, I can help.
 
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AMg-TIa03Bc?si=2BTBbVsRNGpa_eiC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
  
 ### My AI Animation Series: Storytelling & Motion Graphics 

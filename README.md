@@ -112,60 +112,49 @@ You can also find me on other social media:
 
 
 
-# My Projects as an AI Video & Image Prompt Engineer
+# My Projects as an AI Video & Image Prompt Engineer 🤖
 
 I’m also an AI Prompt Engineer specializing in creating high-quality AI images, video sequences, animations, and brand-consistent digital assets. Using tools like Nano Banana, Grok Imagine, Midjourney, DALL·E, Runway Gen-2, Pika Labs, and Stable Diffusion, I craft cinematic visuals, advertising scenes, product renders, storyboards, and creative content for clients worldwide.
 
 
   ---
  
- <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/AMg-TIa03Bc?si=2BTBbVsRNGpa_eiC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
- 
-### My AI Animation Series: Storytelling & Motion Graphics 
 
-I conceptualized and produced "Wahala & Vibez," a narrative-driven 3D animation series optimized for TikTok and Reels.
-
-The Process:
-AI Generation: Leveraged advanced image-to-video prompting to create consistent characters and dynamic environments.
-
-Post-Production: Used Adobe After Effects for complex compositing, lip-syncing, VFX, and color grading to achieve a broadcast-quality look.
-
-Audio: Integrated AI-generated soundtracks and voiceovers for emotional impact.
-This project demonstrates my ability to combine emerging AI tech with professional video editing skills.
-
- ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href=""> align='right'   [![Watch the video](https://img.youtube.com/vi/AMg-TIa03Bc/maxresdefault.jpg)](https://youtu.be/AMg-TIa03Bc)
+
+### [Watch my animation on YouTube](https://youtu.be/AMg-TIa03Bc)</a>
 </p>
 
-### My AI Animation Series: Storytelling & Motion Graphics  🌱
+### My AI Animation Series: Storytelling & Motion Graphics 🌅
 
 I conceptualized and produced "Wahala & Vibez," a narrative-driven 3D animation series optimized for TikTok and Reels.
 
-The Process:
+### The Process:
 AI Generation: Leveraged advanced image-to-video prompting to create consistent characters and dynamic environments.
 
-Post-Production: Used Adobe After Effects for complex compositing, lip-syncing, VFX, and color grading to achieve a broadcast-quality look.
+### Post-Production: 
+Used Adobe After Effects for complex compositing, lip-syncing, VFX, and color grading to achieve a broadcast-quality look.
 
-Audio: Integrated AI-generated soundtracks and voiceovers for emotional impact.
+### Audio: 
+Integrated AI-generated soundtracks and voiceovers for emotional impact.
 This project demonstrates my ability to combine emerging AI tech with professional video editing skills.
-[Latest Post 👉](https://waylonwalker.com/latest)
+
+<!--[Latest Post 👉](https://waylonwalker.com/latest)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
  
-</details>
+</details> -->
 
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+💌 Follow my animation series on TikTok [Wahala & Vibez](https://www.tiktok.com/@wahala_vibez?_r=1&_t=ZS-93gFYas8ZC0)
  
 ## Skills and deliverables
-Animation
-Prompt Engineering
-Motion Graphics
-Storyboard
+Animation,
+Prompt Engineering,
+Motion Graphics,
+Storyboard,
 Video Editing 

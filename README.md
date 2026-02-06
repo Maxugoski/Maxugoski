@@ -8,7 +8,7 @@
   <a href="https://github.com/sponsors/Maxugoski" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a web developer, designer, and digital ethicist passionate about building technology that serves humanity. With over six years of experience in web development and design, I have created e-learning platforms, advocacy websites, and digital tools that blend creativity with conscience. All opinions are my own.
+I'm a Software Engineer, designer, and digital ethicist passionate about building technology that serves humanity. With over six years of experience in web development and design, I have created e-learning platforms, advocacy websites, and digital tools that blend creativity with conscience. All opinions are my own.
 
 
 <!--I was a member of [the Haskell Core Libraries Committee][clc] in 2023.

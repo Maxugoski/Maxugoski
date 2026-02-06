@@ -119,13 +119,10 @@ I’m also an AI Prompt Engineer specializing in creating high-quality AI images
 
   ---
  
+[![Watch the video](https://img.youtube.com/vi/AMg-TIa03Bc/maxresdefault.jpg)](https://youtu.be/AMg-TIa03Bc)
 
+### [Watch my animation on YouTube](https://youtu.be/AMg-TIa03Bc)
 
-<p>
-  <a href=""> align='right'   [![Watch the video](https://img.youtube.com/vi/AMg-TIa03Bc/maxresdefault.jpg)](https://youtu.be/AMg-TIa03Bc)
-
-### [Watch my animation on YouTube](https://youtu.be/AMg-TIa03Bc)</a>
-</p>
 
 ### My AI Animation Series: Storytelling & Motion Graphics 🌅
 
